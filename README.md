@@ -16,7 +16,7 @@
 ### How to Request a Custom Plugin!
 1) Go to [Discord](https://discord.gg/F7ENvAe)
 2) Message EmeraldAssasinYT#3558 In Direct Messages.
-3) Pay the cost of the item to [xXCaulDevsYT Paypal](https://discord.gg/F7ENvAe)
+3) Pay the cost of the item to [xXCaulDevsYT Paypal](https://paypal.me/caulfergiyt)
 4) You should Recieve your Plugin Shortly.
 5) Complete!
 
