@@ -1,0 +1,6 @@
+name: PocketWelcomer
+main: PocketWelcomer\Main
+author: xXCaulDevsYT
+version: "1.0"
+api: [3.0.0-ALPHA12, 3.0.0]
+description: A Simple & Easyt o use server welcomer.
